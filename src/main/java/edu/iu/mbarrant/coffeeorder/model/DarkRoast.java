@@ -1,4 +1,4 @@
-package edu.iu.habahram.coffeeorder.model;
+package edu.iu.mbarrant.coffeeorder.model;
 
 public class DarkRoast extends Beverage{
 
@@ -8,7 +8,7 @@ public class DarkRoast extends Beverage{
     }
     @Override
     public float cost() {
-        return 1.99F;
+        return 3.99F;
     }
 
 
